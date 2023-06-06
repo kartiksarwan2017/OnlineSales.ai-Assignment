@@ -2,6 +2,7 @@
 
 ## Introduction
 Fetch top 3 departments along with their name and average monthly salary. Below is the format of the report.
+<br />
 | DEPT_NAME | AVG_MONTHLY_SALARY (USD) |
 
 
